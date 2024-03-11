@@ -157,8 +157,12 @@ body{
 }
 
 .ext_link{
+    color: white;
     cursor: pointer;
+    align-items: center;
+    text-decoration: none;
 }
+
 .ext_link:hover{
     color: aqua;
 }
