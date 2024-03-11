@@ -7,6 +7,7 @@ This is a simple CV project deployed on GitHub Pages, Vercel, and Netlify.
 - GitHub Pages: [Simple CV - GitHub Pages](https://umair-2k24.github.io/simple-cv/){:target="_blank"} 
 - Vercel: [Simple CV - Vercel](https://simple-cv-nine.vercel.app/){:target="_blank"}
 - Netlify: [Simple CV - Netlify](https://precious-unicorn-0c3eec.netlify.app/){:target="_blank"}
+- <a href="example.com" target="_blank">New Tab</a>
 
 ## Usage
 
